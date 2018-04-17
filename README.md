@@ -2,3 +2,5 @@
 
 This repository contains an example application for learning about Heroku and
 Continuous Integration.
+
+Practicing Heroku & Testing.
